@@ -49,7 +49,7 @@ int main(void){
   a = 0.1 + 0.2;
   b = 0.3;
 
-  if (fabs(a-b), e-5){
+  if (fabs(a-b), 1e-5){ // number parameter, accuracy of double  
     //execute statement
   }
 
