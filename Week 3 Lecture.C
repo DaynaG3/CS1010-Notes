@@ -87,3 +87,6 @@ i -= 1; //minus one
 ++i; //pre-increment -> uses the current value of i BEFORE increasing the value of i by 1
 i++; //post-increment -> uses the value of i AFTER increasing the value of i by 1
 
+//OTHER FUNCTIONS FOR LOOPS
+break; //automatically exits the loop 
+continue; //skips the current iteration of the loops and goes to the next (acts as a bypass)
